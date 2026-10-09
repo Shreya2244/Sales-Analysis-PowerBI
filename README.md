@@ -152,7 +152,7 @@ Sales-Analysis-PowerBI/
 
 ## 👤 Author
 
-**Sachin**  
-Data Analytics | Power BI | SQL | Python
+**Shreya S S**  
+Data Analytics | Power BI | SQL | Python | Excel
 
-📌 GitHub: [@Sachijhon](https://github.com/Sachijhon)
+📌 GitHub: (https://github.com/Shreya2244)
